@@ -17,4 +17,6 @@ npm run start
 
 open http://localhost:3000/ and view the app
 
+TODO: I didn’t have enough time to implement next.js based solution, this is something, I’ll upgrade to, shortly and let you know
+
 
