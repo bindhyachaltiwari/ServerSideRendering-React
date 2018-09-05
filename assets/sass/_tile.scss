@@ -86,7 +86,8 @@
 .section-intro, .app-card{
   margin-bottom: 60px;
   padding: 36px;
-  background: #fff;
+  background: lightgrey;
+
 }
 
 .section-intro{
@@ -103,6 +104,9 @@
    color: #F42;
    line-height: 1;
    margin-bottom: 1.2rem;
+   position: absolute;
+   top: 0;
+   left: -13px;
 }
 
 .current,
@@ -149,6 +153,7 @@
 
 .col-left{
    margin-right: 1.45rem;
+   position: relative;
 }
 
 
