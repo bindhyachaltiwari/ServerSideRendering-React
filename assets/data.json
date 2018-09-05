@@ -1,0 +1,64 @@
+[
+       { "name": "Captain America",
+         "projectAllocated": "ROCHE",
+         "profile": "SAL2",
+         "img":{
+           "src": "media/employee1.jpg",
+           "alt": "employee image"
+         },
+         "desc": "<p>HardWorking </p>",
+         "profileLink": "https://www.linkedin.com"
+       },
+
+       { "name":"Shaktimaan",
+         "projectAllocated": "KIA Motors",
+         "profile": "Manager",
+         "img":{
+           "src": "media/employee2.jpg",
+           "alt": "employee image"
+         },
+         "desc": "<p>Dedicated.</p>",
+         "profileLink": "https://www.linkedin.com"
+       },
+       { "name":"Iron Man",
+         "projectAllocated": "CARTIER",
+         "profile": "Senior Manager",
+         "img":{
+           "src": "media/employee3.jpg",
+           "alt": "employee image"
+         },
+         "desc": "<p>Always Smiling</p>",
+         "profileLink": "https://www.linkedin.com"
+       },
+
+  { "name":"Hulk",
+    "projectAllocated": "CHINA AIRLINES",
+    "profile": "SAL1",
+    "img":{
+      "src": "media/employee4.jpg",
+      "alt": "employee image"
+    },
+    "desc": "<p>Smart</p>",
+    "profileLink": "https://www.linkedin.com"
+  },
+  { "name":"Thor",
+    "projectAllocated": "VCE",
+    "profile": "AL2",
+    "img":{
+      "src": "media/employee5.jpg",
+      "alt": "employee image"
+    },
+    "desc": "<p>Intelligent</p>",
+    "profileLink": "https://www.linkedin.com"
+  },
+  { "name":"Alladin",
+    "projectAllocated": "MTAA",
+    "profile": "SAL1",
+    "img":{
+      "src": "media/employee6.jpg",
+      "alt": "employee image"
+    },
+    "desc": "<p>Works Hard</p>",
+    "profileLink": "https://www.linkedin.com"
+  }
+]

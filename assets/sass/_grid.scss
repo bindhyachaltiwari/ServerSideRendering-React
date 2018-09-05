@@ -1,0 +1,13 @@
+// Outer wrapper
+.wrap-inner{
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+// Content - leaves space between content and other elements
+// at top and bottom
+.content{
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+

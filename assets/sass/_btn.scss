@@ -1,0 +1,30 @@
+// All elements CSS is declared here
+// Some common properties are also listed at the end
+// Some elements are still in development
+
+// Base button class
+.btn{
+  display: inline-block;
+  border: 0;
+  padding: 0 16px;
+  height: 40px;
+  line-height: 40px;
+  font-size: .8235rem;
+  font-weight: 500;
+  border-radius: 3px;
+  text-align: center;
+  text-transform: uppercase;
+  background: #06c;
+  color: #fff;
+  cursor: pointer;
+}
+
+a.btn{
+  color:#fff;
+}
+
+.btn:hover,
+.btn:active{
+  opacity: .5;
+  
+}
